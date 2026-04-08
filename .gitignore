@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Experimentresultat – behåll JSON men ignorera eventuella temporärfiler
+results/*.tmp
+
+# Bästa strategier sparas men ignorera eventuella backup-filer
+best/*.bak
+
+# Editors
+.vscode/
+.idea/
+*.swp
